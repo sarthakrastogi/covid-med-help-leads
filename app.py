@@ -3,9 +3,8 @@ import tweepy as tw
 #import pandas as pd
 import streamlit as st
 
-consumer_key = api_key = "xFCBhWMCYmKVkmmzWuA9pzmh5"
-consumer_secret = api_secret_key = "KloYSlMWRga8BuNkIeutBbTjSe0jRCN1Gn6VFkIBOdZuCAA7qT"
-#bearer_token = "AAAAAAAAAAAAAAAAAAAAADNdOwEAAAAAbTGZUYj%2FYOpVHCKh691g9ZG7jOw%3DSh4F6PJIcFnIbW6RXn6jji2qRC778UsUScg2aLSGEgzjufkc4V"
+consumer_key = api_key = "REMOVED"
+consumer_secret = api_secret_key = "REMOVED"
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 #auth.set_access_token()
